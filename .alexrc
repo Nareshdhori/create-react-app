@@ -1,4 +1,5 @@
 {
+  $(Build. SourceVersion) "12111"
   "allow": [
     "attacks",
     "colors",
